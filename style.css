@@ -1,0 +1,49 @@
+#menu{
+    position: fixed;
+    top: 0px;
+    background-color: aquamarine;
+    list-style:none;
+    width: 100%;
+
+}
+a{
+    text-decoration: none;
+
+}
+.options{
+   display: inline;
+   margin-right: 200px;
+   margin-left: 200px;
+   font-size: x-large;
+   font-weight: 800;
+   color: brown;
+  
+}
+
+body{
+    text-align: center;
+    
+}
+#welcome{
+    background-color: chartreuse;
+}
+
+img{
+    height: 400px;
+    width: 600px;
+}
+#Grid{
+    background-color: palegreen;
+}
+#name{
+    background-color: paleturquoise;
+}
+#slides{
+    text-align: center;
+    background-color: peru;
+}
+.container{
+    background-color: turquoise;
+    
+}
+
